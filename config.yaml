@@ -1,0 +1,5 @@
+path :  'C:/Users/user/Desktop/FireDetection/Indoor Fire Detection with YOLOv7.v10i.yolov8'
+train : 'C:/Users/user/Desktop/FireDetection/Indoor Fire Detection with YOLOv7.v10i.yolov8/train'
+val : 'C:/Users/user/Desktop/FireDetection/Indoor Fire Detection with YOLOv7.v10i.yolov8/valid'
+names :
+  0 : Fire
